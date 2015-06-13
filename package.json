@@ -1,6 +1,6 @@
 {
   "name": "wondergirl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "100 inspirational quotes for women by some of the strongest women in history.",
   "main": "index.js",
   "scripts": {

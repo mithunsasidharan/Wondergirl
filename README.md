@@ -16,7 +16,7 @@ npm install wondergirl
 var wondergirl = require('wondergirl');
 
 wondergirl.getQuote();
-/* "When you lose a couple of times, it makes you realize how difficult it is to win." -Steffi Graf */
+/* "The most effective way to do it, is to do it." -Amelia Earhart */
 
 
 wondergirl.getQuote();

@@ -1,6 +1,6 @@
 {
   "name": "wondergirl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "100 inspirational quotes for women by some of the strongest women in history.",
   "main": "index.js",
   "scripts": {
@@ -12,10 +12,16 @@
   },
   "keywords": [
     "wondergirl",
-    "women",
+    "girl",
+    "girls",
+    "girl quote",
+    "girl quotes",
+    "women quotes",
+    "women quote",
     "quotes",
     "women",
-    "quotes"
+    "quotes",
+    "inspirational quotes"
   ],
   "author": "Mithun Sasidharan <mithunsasidharan89@gmail.com> (http://stackoverflow.com/users/1008222/)",
   "license": "MIT",

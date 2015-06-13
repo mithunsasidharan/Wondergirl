@@ -16,11 +16,10 @@ npm install wondergirl
 var wondergirl = require('wondergirl');
 
 wondergirl.getQuote();
-/* "The most effective way to do it, is to do it." -Amelia Earhart */
-
+"The most effective way to do it, is to do it." -Amelia Earhart
 
 wondergirl.getQuote();
-/* "Success breeds confidence." -Beryl Markham */
+"Success breeds confidence." -Beryl Markham
 ```
 
 

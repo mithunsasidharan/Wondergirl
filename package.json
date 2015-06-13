@@ -1,0 +1,26 @@
+{
+  "name": "wondergirl",
+  "version": "1.0.0",
+  "description": "100 inspirational quotes for women by some of the strongest women in history.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mithunsasidharan/Wondergirl.git"
+  },
+  "keywords": [
+    "wondergirl",
+    "women",
+    "quotes",
+    "women",
+    "quotes"
+  ],
+  "author": "Mithun Sasidharan <mithunsasidharan89@gmail.com> (http://stackoverflow.com/users/1008222/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mithunsasidharan/Wondergirl/issues"
+  },
+  "homepage": "https://github.com/mithunsasidharan/Wondergirl#readme"
+}
